@@ -1,0 +1,6 @@
+{
+  "name": "Aura Social Profile",
+  "description": "An accessible, responsive rebuild of the Instagram Profile Page feature for Brief C with full keyboard navigation, modal focus traps, and reviewer state controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
